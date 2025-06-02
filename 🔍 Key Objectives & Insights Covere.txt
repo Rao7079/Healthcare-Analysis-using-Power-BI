@@ -1,0 +1,21 @@
+🔍 Key Objectives & Insights Covered:
+
+Total number of patient diagnoses in the dataset
+
+Percentage of patients with a history of Heart Attack
+
+Percentage of patients with a history of Stroke
+
+Count of female patients who are not overweight
+
+Number of patients categorized by Health Risk levels
+
+Average weight of patients based on Occupation
+
+Total number of overweight patients by Race
+
+Number of patients with normal health in each age group
+
+Patients who smoke and are at high health risk
+
+Patients who exercise less than 30 minutes and are at high or moderate health risk
